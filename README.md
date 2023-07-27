@@ -6,6 +6,20 @@
 
 <img src="https://i.ibb.co/jTXPLw2/qb.gif" height="60" align="right"/>
 
+- :computer: &nbsp; ![Static Badge](https://img.shields.io/badge/C%23-grey?logo=csharp&logoColor=green) ![Static Badge](https://img.shields.io/badge/Java-grey?logo=oracle&logoColor=red) ![Static Badge](https://img.shields.io/badge/Python-grey?logo=python&logoColor=yellow)
+
+- :globe_with_meridians: &nbsp; ![Static Badge](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=orange) ![Static Badge](https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue)
+
+- 🛢️ &nbsp; ![Static Badge](https://img.shields.io/badge/MongoDB-grey?logo=mongodb) ![Static Badge](https://img.shields.io/badge/MySQL-grey?logo=mysql)
+
+- :wrench: &nbsp; ![Static Badge](https://img.shields.io/badge/Unity-grey?logo=unity) ![Static Badge](https://img.shields.io/badge/Blender-grey?logo=blender) ![Static Badge](https://img.shields.io/badge/Git-grey?logo=git)
+
+
+
+
+
+
+
 <!--
 <details>
 <summary>More Repositories ...</summary>
