@@ -4,8 +4,6 @@
 
 <!--<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NoiRC256&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">-->
 
-<img src="https://i.ibb.co/jTXPLw2/qb.gif" height="60" align="right"/>
-
 - :computer: &nbsp; ![Static Badge](https://img.shields.io/badge/C%23-grey?logo=csharp&logoColor=green) ![Static Badge](https://img.shields.io/badge/Java-grey?logo=oracle&logoColor=red) ![Static Badge](https://img.shields.io/badge/Python-grey?logo=python&logoColor=yellow)
 
 - :globe_with_meridians: &nbsp; ![Static Badge](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=orange) ![Static Badge](https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue)
@@ -14,11 +12,7 @@
 
 - :wrench: &nbsp; ![Static Badge](https://img.shields.io/badge/Unity-grey?logo=unity) ![Static Badge](https://img.shields.io/badge/Blender-grey?logo=blender) ![Static Badge](https://img.shields.io/badge/Git-grey?logo=git)
 
-
-
-
-
-
+<img src="https://i.ibb.co/jTXPLw2/qb.gif" height="60" align="right"/>
 
 <!--
 <details>
