@@ -1,6 +1,6 @@
 ### Hi there, this is NoiRCCC 👋
 
-<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=NoiRC256&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="800">
+<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=NoiRC256&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="400">
 
 
 <!--<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NoiRC256&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">-->
