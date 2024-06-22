@@ -1,41 +1,19 @@
-### Hi there, this is NoiRCCC 👋
+<div align="left">
+  <h3 align="center">NoiR_CCC</h3>
+  <p align="center">
+    <samp>
+      <a href="https://noirccc.net/blog/">Blog</a> |
+      <a href="https://steamcommunity.com/id/noirccc/">Steam</a>
+    </samp>
+  </p>
 
-<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=NoiRC256&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="600">
+:hammer_and_wrench: About Me φ(゜▽゜*)♪
+  - :crossed_swords: Gameplay programming with Unity C#
+  - :computer: Frontend with React Native & TypeScript
+  - :gear: Backend with C# ASP.NET Core
+</div>
 
-
-<!--<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NoiRC256&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">-->
-
-<!--
-- :computer: &nbsp; ![Static Badge](https://img.shields.io/badge/C%23-grey?logo=csharp&logoColor=green) ![Static Badge](https://img.shields.io/badge/Java-grey?logo=oracle&logoColor=red) ![Static Badge](https://img.shields.io/badge/Python-grey?logo=python&logoColor=yellow)
-
-- :globe_with_meridians: &nbsp; ![Static Badge](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=orange) ![Static Badge](https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue)
-
-- 🛢️ &nbsp; ![Static Badge](https://img.shields.io/badge/MongoDB-grey?logo=mongodb) ![Static Badge](https://img.shields.io/badge/MySQL-grey?logo=mysql)
-
-- :wrench: &nbsp; ![Static Badge](https://img.shields.io/badge/Unity-grey?logo=unity) ![Static Badge](https://img.shields.io/badge/Blender-grey?logo=blender) ![Static Badge](https://img.shields.io/badge/Git-grey?logo=git)
--->
-
-<img src="https://github.com/NoiRC256/SRMove/assets/33998067/e918d289-7a92-48e8-a370-3b3c7065b915" height="60" align="right"/>
-
-<!--
-<details>
-<summary>More Repositories ...</summary>
-  
-<a href="https://github.com/mashirozx/Sakura">
-  <img alt="mashirozx/Sakura" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api/pin/?username=mashirozx&repo=Sakura&show_owner=true" />
-</a>
-
-<a href="https://github.com/mashirozx/arknights-ui">
-  <img alt="mashirozx/arknights-ui" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api/pin/?username=mashirozx&repo=arknights-ui&show_owner=true" />
-</a>
-
-<a href="https://github.com/mashirozx/lua-resty-tencent-cos-signature">
-  <img alt="mashirozx/Sakura" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api/pin/?username=mashirozx&repo=lua-resty-tencent-cos-signature&show_owner=true" />
-</a>
-
-<a href="https://github.com/mashirozx/weibo2toot">
-  <img alt="mashirozx/weibo2toot" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api/pin/?username=mashirozx&repo=weibo2toot&show_owner=true" />
-</a>
-
-</details>
--->
+<div align="right">
+  <img align='right' src='/github-metrics.svg' width='420px'>
+  <img align='right' src='/qb.gif' width='80px'>
+</div>
