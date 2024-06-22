@@ -2,7 +2,7 @@
   <img align="right" src="/github-metrics.svg" width="420px">
 </div>
 <div align="left">
-  <h3 align="center">NoiR_CCC</h3>
+  <h3 align="center">CC</h3>
   <p align="center">
     <samp>
       <a href="https://noirccc.net/blog/" target="_blank">Blog</a> |
