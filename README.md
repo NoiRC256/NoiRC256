@@ -5,8 +5,8 @@
   <h3 align="center">NoiR_CCC</h3>
   <p align="center">
     <samp>
-      <a href="https://noirccc.net/blog/">Blog</a> |
-      <a href="https://steamcommunity.com/id/noirccc/">Steam</a>
+      <a href="https://noirccc.net/blog/" target="_blank">Blog</a> |
+      <a href="https://steamcommunity.com/id/noirccc/" target="_blank">Steam</a>
     </samp>
   </p>
 
