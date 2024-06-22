@@ -10,7 +10,7 @@
     </samp>
   </p>
 
-:hammer_and_wrench: About Me φ(゜▽゜*)♪
+:bulb: About Me φ(゜▽゜*)♪
   - :crossed_swords: Gameplay programming with Unity C#
   - :computer: Frontend with React Native & TypeScript
   - :gear: Backend with C# ASP.NET Core
