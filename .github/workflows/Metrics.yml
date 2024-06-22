@@ -1,0 +1,37 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: NoiRC256
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
+          plugin_languages: yes
+          plugin_languages_ignored: "Jupyter Notebook"
+          plugin_languages_colors: github
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_people: yes
+          plugin_people_limit: 10
+          plugin_people_size: 40
+          plugin_people_types: followers, following
+  
