@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
       <a href="https://noirccc.net/blog/" target="_blank">Blog</a> |
-      <a href="https://steamcommunity.com/id/noirccc/" target="_blank">Steam</a>
+      <!-- <a href="https://steamcommunity.com/id/noirccc/" target="_blank">Steam</a> -->
     </samp>
   </p>
   <img src="/qb.gif" width="80px">
